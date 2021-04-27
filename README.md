@@ -1,7 +1,8 @@
-# Python-Projects
+Project Name: Soccer Shark
+
 Project Description
-Soccer Shark is a tool that would enable soccer coaches to explain and visualize their game-plans to their players during training sessions. 
-This tool would be able to also generate possible counter formations that opponents may use based on flaws in the coach’s formation.
+Fuelled by my passion for the game, I made a soccer coaching tool ,Soccer Shark, that would enable coaches to explain and visualize their game-plans during training sessions to their players.
+This program is written is Python 3
 
 To run the project, open the TP3 file and run in VSCode preferrably. I used no modules that need to be installed.
 
